@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="15285" started-at="2026-01-25T13:28:20Z" finished-at="2026-01-25T13:28:35Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="15285" started-at="2026-01-25T13:28:20Z" finished-at="2026-01-25T13:28:35Z">
+      <class name="framee.LoginTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:framee.LoginTest@239963d8]" name="setUp" is-config="true" duration-ms="7956" started-at="2026-01-25T13:28:20Z" finished-at="2026-01-25T13:28:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testLoginAndSearch()[pri:0, instance:framee.LoginTest@239963d8]" name="testLoginAndSearch" duration-ms="6487" started-at="2026-01-25T13:28:28Z" finished-at="2026-01-25T13:28:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginAndSearch -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:framee.LoginTest@239963d8]" name="tearDown" is-config="true" duration-ms="792" started-at="2026-01-25T13:28:35Z" finished-at="2026-01-25T13:28:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- framee.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
